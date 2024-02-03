@@ -1,8 +1,44 @@
-# React + Vite
+# Todo-List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Todo-List-App]:
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+- [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+- While building this project, i grasped the core concepts of React-Redux-toolkit.
+
+### Screenshot
+
+![](../Todo-List-React/src/assets/Screenshot%202024-02-03%20at%2017-31-25%20Todo-List-App.png)
+
+### Links
+
+- Solution URL: [Repo]()
+- Live Site URL: [Demo]()
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- React
+- Redux-Toolkit
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+## Author
+
+- Linkedin - [girldocode](https://www.linkedin.com/in/dev-sadia/)
+- Twitter - [@girldocode](https://twitter.com/girldocode)
